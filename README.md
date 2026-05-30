@@ -175,7 +175,7 @@ Streamlit Deployment
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/medical-insurance-cost-prediction.git
+git clone https://github.com/HusnaSiddiqa/medical-insurance-cost-prediction.git
 cd medical-insurance-cost-prediction
 ```
 
@@ -241,7 +241,7 @@ The interactive web app allows real-time insurance cost predictions:
 
 - [ ] Add XGBoost / LightGBM models for further accuracy gains
 - [ ] Integrate SHAP values for model explainability
-- [ ] Deploy Streamlit app to Streamlit Cloud or AWS
+- [x] Deploy Streamlit app to Streamlit Cloud ✅
 - [ ] Add confidence intervals to predictions
 - [ ] Experiment with log-transformed target variable
 
@@ -251,7 +251,8 @@ The interactive web app allows real-time insurance cost predictions:
 
 **Husna Siddiqa**
 - Data Scientist | Machine Learning Engineer
-- [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-husna--siddiqa-blue?logo=linkedin)](https://www.linkedin.com/in/husna-siddiqa-7039452ab/)
+- [![GitHub](https://img.shields.io/badge/GitHub-HusnaSiddiqa-black?logo=github)](https://github.com/HusnaSiddiqa)
 
 ---
 

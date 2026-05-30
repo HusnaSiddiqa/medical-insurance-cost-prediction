@@ -4,7 +4,6 @@ Run with: streamlit run app.py
 """
 
 import streamlit as st
-import numpy as np
 import pandas as pd
 import joblib
 import os
@@ -118,7 +117,7 @@ if st.button("Predict Insurance Cost", type="primary", use_container_width=True)
 st.markdown("---")
 st.markdown(
     "Built with Python, scikit-learn & Streamlit &nbsp;|&nbsp; "
-    "[GitHub](https://github.com/husnasiddiqa/medical-insurance-cost-prediction) &nbsp;|&nbsp; "
+    "[GitHub](https://github.com/HusnaSiddiqa/medical-insurance-cost-prediction) &nbsp;|&nbsp; "
     "**Husna Siddiqa**",
     unsafe_allow_html=True
 )
