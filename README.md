@@ -4,8 +4,11 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://medical-insurance-cost-prediction-xjmjftdi88a2axuyedabo5.streamlit.app/)
 
 > **End-to-end machine learning project** that predicts individual medical insurance charges using patient demographics and health factors. Includes EDA, feature engineering, multi-model comparison, hyperparameter tuning, and a Streamlit web application for live predictions.
+
+### 🚀 [**Try the Live Demo →**](https://medical-insurance-cost-prediction-xjmjftdi88a2axuyedabo5.streamlit.app/)
 
 ---
 
